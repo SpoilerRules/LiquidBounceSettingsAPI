@@ -3,6 +3,7 @@ AntiBot TabMode Contains
 AntiBot EntityID false
 AntiBot Color false
 AntiBot LivingTime true
+AntiBot LivingTimeTicks 67
 AntiBot Ground false
 AntiBot Air false
 AntiBot InvaildGround false
